@@ -1,0 +1,71 @@
+.navbar .container-fluid {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+.home-section .container-fluid .row {
+  margin-bottom: 0px;
+  position: relative;
+}
+
+.home-section .container-fluid .row .col-12 {
+  margin-top: 100px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+}
+
+.home-section .container-fluid .row .col-12 .btn {
+  background-color: #fff;
+  border-radius: 50%;
+  font-family: 'Inter';
+  color: #000;
+  outline: 20px solid #afcae8;
+}
+
+.home-section .container-fluid .row .col-12 a {
+  padding: 100px;
+  padding-top: 180px;
+  padding-bottom: 180px;
+  font-size: 40px;
+  font-family: 'Inter';
+  font-weight: 400;
+}
+
+.home-section .container-fluid .row .col-10 {
+  margin-top: 75px;
+  font-family: 'Inter';
+  font-weight: 400;
+}
+
+.home-section .container-fluid .row .col-10 a {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  font-size: 24px;
+  font-family: 'Inter';
+  font-weight: 400;
+}
+
+.detail-section .container-fluid .row {
+  margin-bottom: 0px;
+  position: relative;
+}
+
+.detail-section .container-fluid .row .col-12 {
+  margin-top: 100px;
+}
+
+.detail-section .container-fluid .row .col-12 .btn {
+  background-color: #fff;
+  font-family: 'Inter';
+  color: #000;
+}
+
+.detail-section .container-fluid .row .col-12 a {
+  font-family: 'Inter';
+  font-weight: 400;
+}
+/*# sourceMappingURL=style.css.map */
