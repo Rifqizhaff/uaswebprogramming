@@ -36,7 +36,7 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0 " style="background-color: #f8de55; justify-content:center; align-items:center; text-align: center; margin-left:500px;">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Home</a>
+            <a class="nav-link active" aria-current="page" href="{{ ('/home') }}">Home</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="/order_list">Cart</a>
