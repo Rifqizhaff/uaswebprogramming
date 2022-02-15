@@ -9,6 +9,12 @@ Admin account
 admin@admin.com
 admin12345
 
+## LINK ONE DRIVE
+https://binusianorg-my.sharepoint.com/personal/muhammad_zhafar_binus_ac_id/_layouts/15/guestaccess.aspx?guestaccesstoken=n8laJ7%2BsqB%2Ffb7QGa7Gcwtp%2FvhPOll2Hmhj5RHso%2FeU%3D&folderid=2_0cce7072eefd14754a83fd94956fdd9ff&rev=1&e=OhGrtv
+
+<br>
+<br>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
